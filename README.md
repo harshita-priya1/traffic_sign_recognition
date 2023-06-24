@@ -1,2 +1,4 @@
 # traffic_sign_recognition
-Traffic sign recognition using CNN and GTSRB dataset.
+-Traffic sign recognition using GTSRB dataset from Kaggle.
+-CNN model was created.
+
